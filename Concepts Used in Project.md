@@ -1,7 +1,7 @@
-# 🎯 Interview Preparation — Customer Churn Intelligence Project
+# 🎯Customer Churn Intelligence Project
 
 > A complete guide covering **every concept, algorithm, library, and technique** used in this project.  
-> Organized topic-wise for quick revision before interviews.
+> Organized topic-wise explanation.
 
 ---
 
